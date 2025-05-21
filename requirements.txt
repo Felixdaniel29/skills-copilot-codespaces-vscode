@@ -1,0 +1,10 @@
+streamlit
+pandas
+openai
+Pillow
+librosa
+matplotlib
+numpy
+openai
+matplotlib
+streamlit
